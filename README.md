@@ -1,4 +1,3 @@
-zeitgeist-voteable
-==================
+# Voteable Behaviour (ZeitgeistModel)
 
-ZeitgeistModel's Voteable behaviour for Meteor
+Voteable Behaviour (ZeitgeistModel) for Meteor
